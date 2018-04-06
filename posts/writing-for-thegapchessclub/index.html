@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" ">
+    <title>The Gap Chess Club - Writing for The Gap Chess Club</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300italic,300,600,600italic,700,700italic,800,800italic" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="../../css/bootstrap.min.css" />
+        <link rel="stylesheet" href="../../css/font-awesome.min.css" />
+        <link rel="stylesheet" href="../../css/custom.css">
+        <link rel="stylesheet" href="../../css/syntax.css">
+        
+          
+        
+        <link rel="alternate" type="application/atom+xml" title="The Gap Chess Club" href="../../atom.xml">
+        <link rel="alternate" type="application/rss+xml" title="The Gap Chess Club" href="../../rss.xml">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116545973-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-116545973-1');
+        </script>
+    </head>
+    <body>
+
+        <header>
+            <nav class="navbar navbar-expand-lg tgcc-green">
+              <a class="navbar-brand text-white" href="../../">
+                <img height="75" alt="TGCC logo" src="../../images/tgcc-logo.png" />
+              </a>
+
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+
+                <i class="fa fa-lg fa-fw fa-bars text-white"></i>
+              </button>
+
+              <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                  <ul class="navbar-nav">
+                    <li class="nav-item">
+                      <a class="nav-link text-white" href="../../">Home</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link text-white" href="../../location">Location</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link text-white" href="../../people">People</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link text-white" href="../../contact">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link text-white" href="../../archive">Archive</a>
+                    </li>
+                  </ul>
+                </div>
+            </nav>
+        </header>
+
+        <main>
+          <div class="container-fluid">
+              <div class="container">
+  <div class="row">
+    <div class="col my-2">
+      <h2>Writing for The Gap Chess Club</h2>
+      <small>Posted on March 28, 2018</small>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col my-2">
+      <h2 id="introduction">Introduction</h2>
+<p>This blog is built using <a href="https://jaspervdj.be/hakyll/">Hakyll</a>, a static site generator written in Haskell.</p>
+<p>If you haven’t used Hakyll before, this will walk you through what you need to know to get going.</p>
+<p>If you have used Hakyll before, there are some customizations that we’re using that you should probably know about - so keep reading.</p>
+<h2 id="how-to-write-a-post">How to write a post</h2>
+<p>The first step is to checkout the from <a href="https://github.com/thegapchessclub/thegapchessclub.org.au">github</a>.</p>
+<p>The blog posts are all in the <code>posts</code> directory, so that’s where we add new ones.</p>
+<p>If you’re working on a draft that you want to share with people in order to get feedback, you can put it in the <code>drafts</code> directory. It will be treated just like a regular post, but it won’t be linked from any of the other pages.</p>
+<p>Similarly, you can add content to the <code>links</code> directory if you have information that you want to share with people that would be noisy or off-topic if it were linked from the other pages.</p>
+<p>In either case, the content will be viewable by anyone who has the URL of the content (or anyone clicking through the github repository for the blog), but otherwise won’t be discoverable by people clicking around on the blog.</p>
+<p>They are written using <a href="http://pandoc.org/MANUAL.html#pandocs-markdown">Pandoc’s Markdown</a> syntax, which is worth getting familiar with.</p>
+<p>There is also support for <code>LaTeX</code>. This can include the use of arbitrary packages, but there are currently a few steps involved in adding new packages. I’ll work on making this a bit smoother shortly.</p>
+<h3 id="the-property-block-for-blog-posts">The property block for blog posts</h3>
+<p>The posts need to start with a property block, that looks like this:</p>
+<pre><code>---
+title: Chess is best
+date: 2017-04-01
+authors: tmorris
+---</code></pre>
+<p>The <code>title</code> and <code>date</code> fields are mandatory. The blog will fail to build if you leave them out, but it’ll let you know why.</p>
+<p>The <code>authors</code> field is optional. If it is set, it should be set to a comma-separated list of nicknames of the authors.</p>
+<p>If the field is present, the post will be linked from the main page for each author. The post will also have footer entries which link to that main pages of each author along with a small blurb.</p>
+<h2 id="how-to-test-out-changes-locally">How to test out changes locally</h2>
+<p>There are two directories in the blog repository.</p>
+<p>The <code>generator</code> directory has the site generator, and the <code>content</code> directory has the site content.</p>
+<p>If you have Nix installed, you can use</p>
+<pre><code>nix-build release.nix -A generator</code></pre>
+<p>to build the site generator, which will be available in <code>result/bin/site</code>.</p>
+<p>After that you can head to the <code>content</code> directory and run</p>
+<pre><code>../result/bin/site build</code></pre>
+<p>to build the site in <code>_site</code>, or</p>
+<pre><code>../result/bin/site watch</code></pre>
+<p>to set up a preview server on <code>localhost:8000</code> that will update as you work on your posts.</p>
+<h2 id="adding-things">Adding things</h2>
+<h3 id="adding-a-new-author">Adding a new author</h3>
+<p>There are three things to do to add a new author to the blog.</p>
+<p>At the moment these are pretty free-form, but in the future we might add more structure for standard sections / features - like photos of the team members, etc…</p>
+<h4 id="write-an-author-page">1. Write an author page</h4>
+<p>Write a page about the author at <code>./people/&lt;author-nickname&gt;.md</code> with the following property block at the start of the document:</p>
+<pre><code>---
+title: &lt;Author name here&gt;
+---</code></pre>
+<h4 id="write-a-snippet-for-the-page-listing-members">2. Write a snippet for the page listing members</h4>
+<p>This goes in <code>./snippets/people/&lt;author-nickname&gt;/page.md</code> and requires the following property block at the start of the document:</p>
+<pre><code>---
+title: &lt;Author name here&gt;
+order: &lt;What position on the page the blurb will appear at&gt;
+---</code></pre>
+<p>The blurbs will be sorted in ascending order by the numerical value of the <code>order</code> property. It is probably worth using the highest number not already taken.</p>
+<h4 id="write-a-snippet-for-blog-posts">3. Write a snippet for blog posts</h4>
+<p>This goes in <code>./snippets/people/&lt;author-nickname&gt;/posts.md</code> and requires the following property block at the start of the document:</p>
+<pre><code>---
+title: &lt;Author name here&gt;
+---</code></pre>
+<h3 id="adding-a-new-latex-package">Adding a new <code>LaTeX</code> package</h3>
+<p>At the moment this is a bit manual.</p>
+<p>The blog currently makes the <code>prftree</code> package available.</p>
+<p>If you want to add a new LaTeX package, you can add it to the lists of packages in <code>default.nix</code> and <code>src/Site.hs</code> that already contain <code>prftree</code>.</p>
+<p>This will be made a bit easier later on.</p>
+<h3 id="adding-other-content">Adding other content</h3>
+<p>Anything in the <code>./share</code> directory will be served up as static content.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Blog early and often. Just have fun with it.</p>
+    </div>
+  </div>
+
+  
+
+  
+  <div class="row">
+    <div class="col my-2">
+      
+      <div class="p-1">
+  <h4 class="tgcc-bottom-line">
+    > <a href="../../people/tmorris">Tony Morris</a>
+  </h4>
+  <p>Tony is the Treasurer of The Gap Chess Club.</p>
+</div>
+
+      
+    </div>
+  </div>
+  
+
+</div>
+</div>
+
+          </div>
+          <div class="collapse navbar-collapse navbar-right" id="navbar-collapse-1">
+              <ul class="nav navbar-nav">
+                  <li role="presentation"><a href="../../">Home</a></li>
+                  <li role="presentation"><a href="../../location">Location</a></li>
+                  <li role="presentation"><a href="../../people">People</a></li>
+                  <li role="presentation"><a href="../../contact">Contact</a></li>
+                  <li role="presentation"><a href="../../archive">Archive</a></li>
+              </ul>
+          </div>
+        </main>
+
+        <footer class="page-footer tgcc-green">
+            <div class="container">
+              <div class="row justify-content-centre">
+                <div class="col">
+                  <a href="mailto:contact@thegapchessclub.org.au"><i class="text-white fa fa-at fa-2x"></i></a>
+                  <a href="http://webchat.freenode.net/?randomnick=1&channels=%23thegapchessclub&uio=d4"><i class="text-white fa fa-comments fa-2x"></i></a>
+                  <a href="https://www.facebook.com/thegapchessclub/"><i class="text-white fa fa-facebook fa-2x"></i></a>
+                  <a href="https://github.com/thegapchessclub"><i class="text-white fa fa-github fa-2x"></i></a>
+                </div>
+                <div class="col">
+                  <a class="float-right" rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+                    <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+                  </a>
+                </div>
+              </div>
+            </div>
+        </footer>
+
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
+        </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous">
+        </script>
+
+        <script src="../../js/bootstrap.min.js"></script>
+
+        
+          
+        
+    </body>
+</html>
