@@ -1,4 +1,1 @@
-/* Removes the hyphen before the text. I wanted the subdued effect without the extra formatting */
-small.no-dash-small-quote::before {
-  content: none;
-}
+ small.no-dash-small-quote::before{content:none}
