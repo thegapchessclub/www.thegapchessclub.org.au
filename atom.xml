@@ -51,15 +51,10 @@
 <hr />
 <h5 id="tony-morris-v-brian-willcock">Tony Morris v Brian Willcock</h5>
 <iframe src="https://lichess.org/embed/r7L8FgKy?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
-</iframe>]]></summary>
-</entry>
-<entry>
-    <title>Flood Cup, Current standings</title>
-    <link href="https://thegapchessclub.org.au//posts/20180504_flood-cup_current-standings/index.html" />
-    <id>https://thegapchessclub.org.au//posts/20180504_flood-cup_current-standings/index.html</id>
-    <published>2018-05-04T00:00:00Z</published>
-    <updated>2018-05-04T00:00:00Z</updated>
-    <summary type="html"><![CDATA[<table>
+</iframe>
+<hr />
+<h3 id="current-standings">Current standings</h3>
+<table>
 <thead>
 <tr class="header">
 <th align="center">Rank</th>
@@ -167,6 +162,14 @@
 </tr>
 </tbody>
 </table>]]></summary>
+</entry>
+<entry>
+    <title>Flood Cup, Current standings</title>
+    <link href="https://thegapchessclub.org.au//posts/20180504_flood-cup_current-standings/index.html" />
+    <id>https://thegapchessclub.org.au//posts/20180504_flood-cup_current-standings/index.html</id>
+    <published>2018-05-04T00:00:00Z</published>
+    <updated>2018-05-04T00:00:00Z</updated>
+    <summary type="html"><![CDATA[]]></summary>
 </entry>
 <entry>
     <title>Flood Cup, Rounds [1, 2, 7]</title>
