@@ -7,8 +7,167 @@
         <description><![CDATA[]]></description>
         <atom:link href="https://thegapchessclub.org.au//rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Mon, 30 Apr 2018 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Fri, 04 May 2018 00:00:00 UT</lastBuildDate>
         <item>
+    <title>Flood Cup, Round [1,2,7] results</title>
+    <link>https://thegapchessclub.org.au//posts/20180504_flood-cup_round-127_results/index.html</link>
+    <description><![CDATA[<h3 id="results">Results</h3>
+<h6 id="section">20180504</h6>
+<table>
+<thead>
+<tr class="header">
+<th>WHITE</th>
+<th>BLACK</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Mark Pendrith</td>
+<td>Rex Scarf</td>
+<td><em>postponed</em></td>
+</tr>
+<tr class="even">
+<td>Tony Howes</td>
+<td>Andrew Robinson</td>
+<td>½-½</td>
+</tr>
+<tr class="odd">
+<td>Tony Morris</td>
+<td>Brian Willcock</td>
+<td>½-½</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="games">Games</h3>
+<h5 id="tony-howes-v-andrew-robinson">Tony Howes v Andrew Robinson</h5>
+<iframe src="https://lichess.org/embed/c7R9jTbJ?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+</iframe>
+<hr />
+<h5 id="tony-morris-v-brian-willcock">Tony Morris v Brian Willcock</h5>
+<iframe src="https://lichess.org/embed/r7L8FgKy?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+</iframe>]]></description>
+    <pubDate>Fri, 04 May 2018 00:00:00 UT</pubDate>
+    <guid>https://thegapchessclub.org.au//posts/20180504_flood-cup_round-127_results/index.html</guid>
+    <dc:creator>TGCC</dc:creator>
+</item>
+<item>
+    <title>Flood Cup, Current standings</title>
+    <link>https://thegapchessclub.org.au//posts/20180504_flood-cup_current-standings/index.html</link>
+    <description><![CDATA[<table>
+<thead>
+<tr class="header">
+<th align="center">Rank</th>
+<th>Name</th>
+<th align="center">Points</th>
+<th align="center">Played</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">1</td>
+<td>Rex Scarf</td>
+<td align="center">4½</td>
+<td align="center">5</td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">2</td>
+<td>Tony Howes</td>
+<td align="center">4</td>
+<td align="center">6</td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">3</td>
+<td>Tony Morris</td>
+<td align="center">3½</td>
+<td align="center">6</td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">4</td>
+<td>Andrew Robinson</td>
+<td align="center">2½</td>
+<td align="center">4</td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">5</td>
+<td>Brian Willcock</td>
+<td align="center">2½</td>
+<td align="center">4</td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">6</td>
+<td>Mark Pendrith</td>
+<td align="center">1½</td>
+<td align="center">4</td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">7</td>
+<td>Martin Laizans</td>
+<td align="center">1</td>
+<td align="center">5</td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">8</td>
+<td>Chesley Cutler</td>
+<td align="center">½</td>
+<td align="center">6</td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>]]></description>
+    <pubDate>Fri, 04 May 2018 00:00:00 UT</pubDate>
+    <guid>https://thegapchessclub.org.au//posts/20180504_flood-cup_current-standings/index.html</guid>
+    <dc:creator>TGCC</dc:creator>
+</item>
+<item>
     <title>Flood Cup, Rounds [1, 2, 7]</title>
     <link>https://thegapchessclub.org.au//posts/20180430_flood-cup_rounds-127/index.html</link>
     <description><![CDATA[<h3 id="draw">Draw</h3>
@@ -424,25 +583,6 @@
 </table>]]></description>
     <pubDate>Thu, 12 Apr 2018 00:00:00 UT</pubDate>
     <guid>https://thegapchessclub.org.au//posts/20180412_flood-cup_round-7/index.html</guid>
-    <dc:creator>TGCC</dc:creator>
-</item>
-<item>
-    <title>Chess Mysteries of Sherlock Holmes</title>
-    <link>https://thegapchessclub.org.au//posts/chess-mysteries-00/index.html</link>
-    <description><![CDATA[<p>This is one of the puzzles in Raymond Smullyan’s 1979 book, “Chess Mysteries of Sherlock Holmes”. It is white’s move. The question is, what was black’s move to lead to this position?</p>
-<iframe width="600" height="371" src="https://lichess.org/study/embed/kgAhhj7P/yH3wKY4Z" frameborder="0">
-</iframe>]]></description>
-    <pubDate>Fri, 06 Apr 2018 00:00:00 UT</pubDate>
-    <guid>https://thegapchessclub.org.au//posts/chess-mysteries-00/index.html</guid>
-    <dc:creator>TGCC</dc:creator>
-</item>
-<item>
-    <title>Flood Cup, Tony Morris v anonymous</title>
-    <link>https://thegapchessclub.org.au//posts/20180406_tony-morris_anonymous/index.html</link>
-    <description><![CDATA[<iframe src="https://lichess.org/embed/ji0CU56r?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
-</iframe>]]></description>
-    <pubDate>Fri, 06 Apr 2018 00:00:00 UT</pubDate>
-    <guid>https://thegapchessclub.org.au//posts/20180406_tony-morris_anonymous/index.html</guid>
     <dc:creator>TGCC</dc:creator>
 </item>
 
