@@ -7,8 +7,47 @@
         <description><![CDATA[]]></description>
         <atom:link href="https://thegapchessclub.org.au//rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Fri, 04 May 2018 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Wed, 09 May 2018 00:00:00 UT</lastBuildDate>
         <item>
+    <title>Flood Cup, Round 6</title>
+    <link>https://thegapchessclub.org.au//posts/20180509_flood-cup_round-6/index.html</link>
+    <description><![CDATA[<h3 id="draw">Draw</h3>
+<table>
+<thead>
+<tr class="header">
+<th>WHITE</th>
+<th>BLACK</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Brian Willcock</td>
+<td>Tony Howes</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tony Morris</td>
+<td>Mark Pendrith</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Rex Scarf</td>
+<td>Martin Laizans</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Andrew Robinson</td>
+<td>Chesley Cutler</td>
+<td></td>
+</tr>
+</tbody>
+</table>]]></description>
+    <pubDate>Wed, 09 May 2018 00:00:00 UT</pubDate>
+    <guid>https://thegapchessclub.org.au//posts/20180509_flood-cup_round-6/index.html</guid>
+    <dc:creator>TGCC</dc:creator>
+</item>
+<item>
     <title>Flood Cup, Round [1, 2, 7] results</title>
     <link>https://thegapchessclub.org.au//posts/20180504_flood-cup_round-127_results/index.html</link>
     <description><![CDATA[<h3 id="results">Results</h3>
@@ -578,16 +617,6 @@
 </table>]]></description>
     <pubDate>Thu, 12 Apr 2018 00:00:00 UT</pubDate>
     <guid>https://thegapchessclub.org.au//posts/20180412_flood-cup_round-7/index.html</guid>
-    <dc:creator>TGCC</dc:creator>
-</item>
-<item>
-    <title>Chess Mysteries of Sherlock Holmes</title>
-    <link>https://thegapchessclub.org.au//posts/chess-mysteries-00/index.html</link>
-    <description><![CDATA[<p>This is one of the puzzles in Raymond Smullyan’s 1979 book, “Chess Mysteries of Sherlock Holmes”. It is white’s move. The question is, what was black’s move to lead to this position?</p>
-<iframe width="600" height="371" src="https://lichess.org/study/embed/kgAhhj7P/yH3wKY4Z" frameborder="0">
-</iframe>]]></description>
-    <pubDate>Fri, 06 Apr 2018 00:00:00 UT</pubDate>
-    <guid>https://thegapchessclub.org.au//posts/chess-mysteries-00/index.html</guid>
     <dc:creator>TGCC</dc:creator>
 </item>
 
