@@ -7,8 +7,163 @@
         <description><![CDATA[]]></description>
         <atom:link href="https://thegapchessclub.org.au//rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Wed, 09 May 2018 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Tue, 15 May 2018 00:00:00 UT</lastBuildDate>
         <item>
+    <title>Flood Cup, Round 6 results</title>
+    <link>https://thegapchessclub.org.au//posts/20180511_flood-cup_round-6_results/index.html</link>
+    <description><![CDATA[<h3 id="results">Results</h3>
+<h6 id="section">20180511</h6>
+<table>
+<thead>
+<tr class="header">
+<th>WHITE</th>
+<th>BLACK</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Brian Willcock</td>
+<td>Tony Howes</td>
+<td>0-1</td>
+</tr>
+<tr class="even">
+<td>Tony Morris</td>
+<td>Mark Pendrith</td>
+<td><em>postponed</em></td>
+</tr>
+<tr class="odd">
+<td>Rex Scarf</td>
+<td>Martin Laizans</td>
+<td><em>postponed</em></td>
+</tr>
+<tr class="even">
+<td>Andrew Robinson</td>
+<td>Chesley Cutler</td>
+<td>½-½</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="games">Games</h3>
+<h5 id="andrew-robinson-v-chesley-cutler">Andrew Robinson v Chesley Cutler</h5>
+<iframe src="https://lichess.org/embed/FU4nhGsD?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+</iframe>
+<hr />
+<h3 id="current-standings">Current standings</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="center">Rank</th>
+<th>Name</th>
+<th align="center">Points</th>
+<th align="center">Played</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">1</td>
+<td>Rex Scarf</td>
+<td align="center">4½</td>
+<td align="center">5</td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">2</td>
+<td>Tony Howes</td>
+<td align="center">5</td>
+<td align="center">7</td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">3</td>
+<td>Tony Morris</td>
+<td align="center">3½</td>
+<td align="center">6</td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">4</td>
+<td>Andrew Robinson</td>
+<td align="center">3</td>
+<td align="center">5</td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">5</td>
+<td>Brian Willcock</td>
+<td align="center">3½</td>
+<td align="center">5</td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">6</td>
+<td>Mark Pendrith</td>
+<td align="center">1½</td>
+<td align="center">4</td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">7</td>
+<td>Martin Laizans</td>
+<td align="center">1</td>
+<td align="center">5</td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">8</td>
+<td>Chesley Cutler</td>
+<td align="center">1</td>
+<td align="center">7</td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>]]></description>
+    <pubDate>Tue, 15 May 2018 00:00:00 UT</pubDate>
+    <guid>https://thegapchessclub.org.au//posts/20180511_flood-cup_round-6_results/index.html</guid>
+    <dc:creator>TGCC</dc:creator>
+</item>
+<item>
     <title>Flood Cup, Round 6</title>
     <link>https://thegapchessclub.org.au//posts/20180509_flood-cup_round-6/index.html</link>
     <description><![CDATA[<h3 id="draw">Draw</h3>
@@ -578,45 +733,6 @@
 </iframe>]]></description>
     <pubDate>Fri, 13 Apr 2018 00:00:00 UT</pubDate>
     <guid>https://thegapchessclub.org.au//posts/20180413_flood-cup_round-7_results/index.html</guid>
-    <dc:creator>TGCC</dc:creator>
-</item>
-<item>
-    <title>Flood Cup, Round 7</title>
-    <link>https://thegapchessclub.org.au//posts/20180412_flood-cup_round-7/index.html</link>
-    <description><![CDATA[<h3 id="draw">Draw</h3>
-<table>
-<thead>
-<tr class="header">
-<th>WHITE</th>
-<th>BLACK</th>
-<th>Notes</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Chesley Cutler</td>
-<td>Brian Willcock</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Martin Laizans</td>
-<td>Andrew Robinson</td>
-<td><em>postponed</em></td>
-</tr>
-<tr class="odd">
-<td>Mark Pendrith</td>
-<td>Rex Scarf</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Tony Howes</td>
-<td>Tony Morris</td>
-<td></td>
-</tr>
-</tbody>
-</table>]]></description>
-    <pubDate>Thu, 12 Apr 2018 00:00:00 UT</pubDate>
-    <guid>https://thegapchessclub.org.au//posts/20180412_flood-cup_round-7/index.html</guid>
     <dc:creator>TGCC</dc:creator>
 </item>
 
