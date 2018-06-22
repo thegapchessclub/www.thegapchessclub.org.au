@@ -19,7 +19,6 @@
 <th>WHITE</th>
 <th>BLACK</th>
 <th align="center">Result</th>
-<th>Notes</th>
 </tr>
 </thead>
 <tbody>
@@ -27,25 +26,21 @@
 <td>Mark Pendrith</td>
 <td>Krishna Karthik</td>
 <td align="center">1-0</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Brian Willcock</td>
 <td>Andrew Robinson</td>
 <td align="center">0-1</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>Suvan Nag</td>
 <td>Tony Morris</td>
 <td align="center">0-1</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Rex Scarf</td>
 <td>Martin Laizans</td>
 <td align="center">0-1</td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -55,12 +50,16 @@
 <iframe src="https://lichess.org/embed/9LU2Rg54?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
 </iframe>
 <hr />
-<h5 id="rex-scarf-v-martin-laizans">Rex Scarf v Martin Laizans</h5>
-<iframe src="https://lichess.org/embed/jtYRXULk?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+<h5 id="brian-willcock-v-andrew-robinson">Brian Willcock v Andrew Robinson</h5>
+<iframe src="https://lichess.org/embed/zxgXumBV?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
 </iframe>
 <hr />
 <h5 id="suvan-nag-v-tony-morris">Suvan Nag v Tony Morris</h5>
 <iframe src="https://lichess.org/embed/Tf0fEDxy?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+</iframe>
+<hr />
+<h5 id="rex-scarf-v-martin-laizans">Rex Scarf v Martin Laizans</h5>
+<iframe src="https://lichess.org/embed/jtYRXULk?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
 </iframe>]]></description>
     <pubDate>Fri, 22 Jun 2018 00:00:00 UT</pubDate>
     <guid>https://thegapchessclub.org.au//posts/20180622_stuart-wilson-trophy_round-4_results/index.html</guid>
