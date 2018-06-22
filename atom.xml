@@ -8,8 +8,53 @@
         <name>TGCC</name>
         <email>contact@thegapchessclub.org.au</email>
     </author>
-    <updated>2018-05-29T00:00:00Z</updated>
+    <updated>2018-06-22T00:00:00Z</updated>
     <entry>
+    <title>Stuart Wilson Trophy, Round 4 results</title>
+    <link href="https://thegapchessclub.org.au//posts/20180622_stuart-wilson-trophy_round-4_results/index.html" />
+    <id>https://thegapchessclub.org.au//posts/20180622_stuart-wilson-trophy_round-4_results/index.html</id>
+    <published>2018-06-22T00:00:00Z</published>
+    <updated>2018-06-22T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<h3 id="results">Results</h3>
+<h6 id="section">20180622</h6>
+<table>
+<thead>
+<tr class="header">
+<th>WHITE</th>
+<th>BLACK</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Mark Pendrith</td>
+<td>Krishna Karthik</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Brian Willcock</td>
+<td>Andrew Robinson</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Suvan Nag</td>
+<td>Tony Morris</td>
+<td>0-1</td>
+</tr>
+<tr class="even">
+<td>Tony Howes</td>
+<td>Rex Scarf</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="games">Games</h3>
+<h5 id="suvan-nag-v-tony-morris">Suvan Nag v Tony Morris</h5>
+<iframe src="https://lichess.org/embed/Tf0fEDxy?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+</iframe>]]></summary>
+</entry>
+<entry>
     <title>Stuart Wilson Trophy, Round 1</title>
     <link href="https://thegapchessclub.org.au//posts/20180529_stuart-wilson-trophy_round-1/index.html" />
     <id>https://thegapchessclub.org.au//posts/20180529_stuart-wilson-trophy_round-1/index.html</id>
@@ -696,46 +741,6 @@
 <h5 id="martin-laizans-v-tony-morris">Martin Laizans v Tony Morris</h5>
 <iframe src="https://lichess.org/embed/e3ggJ3DZ?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
 </iframe>]]></summary>
-</entry>
-<entry>
-    <title>Flood Cup, Round 5</title>
-    <link href="https://thegapchessclub.org.au//posts/20180417_flood-cup_round-5/index.html" />
-    <id>https://thegapchessclub.org.au//posts/20180417_flood-cup_round-5/index.html</id>
-    <published>2018-04-17T00:00:00Z</published>
-    <updated>2018-04-17T00:00:00Z</updated>
-    <summary type="html"><![CDATA[<h3 id="draw">Draw</h3>
-<h6 id="section">20180420</h6>
-<table>
-<thead>
-<tr class="header">
-<th>WHITE</th>
-<th>BLACK</th>
-<th>Notes</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Andrew Robinson</td>
-<td>Brian Willcock</td>
-<td><em>postponed</em></td>
-</tr>
-<tr class="even">
-<td>Chesley Cutler</td>
-<td>Rex Scarf</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Martin Laizans</td>
-<td>Tony Morris</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Mark Pendrith</td>
-<td>Tony Howes</td>
-<td></td>
-</tr>
-</tbody>
-</table>]]></summary>
 </entry>
 
 </feed>
