@@ -8,8 +8,51 @@
         <name>TGCC</name>
         <email>contact@thegapchessclub.org.au</email>
     </author>
-    <updated>2018-07-13T00:00:00Z</updated>
+    <updated>2018-07-16T00:00:00Z</updated>
     <entry>
+    <title>TEST</title>
+    <link href="https://thegapchessclub.org.au//posts/20180716_test/index.html" />
+    <id>https://thegapchessclub.org.au//posts/20180716_test/index.html</id>
+    <published>2018-07-16T00:00:00Z</published>
+    <updated>2018-07-16T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<table>
+<thead>
+<tr class="header">
+<th>WHITE</th>
+<th>BLACK</th>
+<th align="center">Result</th>
+<th align="center">Round</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Tony Morris</td>
+<td>Brian Willcock</td>
+<td align="center">1-0</td>
+<td align="center">3</td>
+</tr>
+<tr class="even">
+<td>Chesley Cutler</td>
+<td>Mark Pendrith</td>
+<td align="center">0-1</td>
+<td align="center">5</td>
+</tr>
+<tr class="odd">
+<td>Andrew Robinson</td>
+<td>Suvan Nag</td>
+<td align="center">1-0</td>
+<td align="center">5</td>
+</tr>
+<tr class="even">
+<td>Krishna Karthik</td>
+<td>Tony Howes</td>
+<td align="center">0-1</td>
+<td align="center">7</td>
+</tr>
+</tbody>
+</table>]]></summary>
+</entry>
+<entry>
     <title>Stuart Wilson Trophy, Results, Standings and Games</title>
     <link href="https://thegapchessclub.org.au//posts/20180713_stuart-wilson-trophy_results/index.html" />
     <id>https://thegapchessclub.org.au//posts/20180713_stuart-wilson-trophy_results/index.html</id>
@@ -788,121 +831,6 @@
 </tbody>
 </table>
 <p>Byes: Martin Laizans, Chesley Cutler.</p>]]></summary>
-</entry>
-<entry>
-    <title>Flood Cup, Current standings</title>
-    <link href="https://thegapchessclub.org.au//posts/20180429_flood-cup_current-standings/index.html" />
-    <id>https://thegapchessclub.org.au//posts/20180429_flood-cup_current-standings/index.html</id>
-    <published>2018-04-29T00:00:00Z</published>
-    <updated>2018-04-29T00:00:00Z</updated>
-    <summary type="html"><![CDATA[<table>
-<thead>
-<tr class="header">
-<th align="center">Rank</th>
-<th>Name</th>
-<th align="center">Points</th>
-<th align="center">Played</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="center">1</td>
-<td>Rex Scarf</td>
-<td align="center">4½</td>
-<td align="center">5</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">2</td>
-<td>Tony Howes</td>
-<td align="center">3½</td>
-<td align="center">5</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">3</td>
-<td>Tony Morris</td>
-<td align="center">3</td>
-<td align="center">5</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">4</td>
-<td>Andrew Robinson</td>
-<td align="center">2</td>
-<td align="center">3</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">5</td>
-<td>Brian Willcock</td>
-<td align="center">2</td>
-<td align="center">3</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">6</td>
-<td>Mark Pendrith</td>
-<td align="center">1½</td>
-<td align="center">4</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">7</td>
-<td>Martin Laizans</td>
-<td align="center">1</td>
-<td align="center">5</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">8</td>
-<td>Chesley Cutler</td>
-<td align="center">½</td>
-<td align="center">6</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-</tbody>
-</table>]]></summary>
 </entry>
 
 </feed>
