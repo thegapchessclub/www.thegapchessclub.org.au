@@ -11,7 +11,7 @@
         <item>
     <title>Stuart Wilson Trophy, 28 July 2018</title>
     <link>https://thegapchessclub.org.au//posts/20180728_stuart-wilson-trophy_results/index.html</link>
-    <description><![CDATA[<h3 id="results-28-july-2018">Results – 28 July 2018</h3>
+    <description><![CDATA[<h3 id="results-27-july-2018">Results – 27 July 2018</h3>
 <table>
 <thead>
 <tr class="header">
@@ -34,7 +34,7 @@
 </tbody>
 </table>
 <hr />
-<h3 id="current-standings-as-at-20-july-2018">Current Standings as at 20 July 2018</h3>
+<h3 id="current-standings-as-at-27-july-2018">Current Standings as at 27 July 2018</h3>
 <table>
 <thead>
 <tr class="header">
@@ -47,6 +47,18 @@
 <tbody>
 <tr class="odd">
 <td align="center">1</td>
+<td>Martin Laizans</td>
+<td align="center">5.0</td>
+<td align="center">7</td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">2</td>
 <td>Tony Howes</td>
 <td align="center">4.5</td>
 <td align="center">5</td>
@@ -58,21 +70,9 @@
 <td align="center"></td>
 </tr>
 <tr class="odd">
-<td align="center">2</td>
+<td align="center">3</td>
 <td>Andrew Robinson</td>
 <td align="center">4.5</td>
-<td align="center">7</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">3</td>
-<td>Martin Laizans</td>
-<td align="center">5.0</td>
 <td align="center">7</td>
 </tr>
 <tr class="even">
@@ -171,6 +171,10 @@
 <h3 id="games">Games</h3>
 <h5 id="tony-morris-vs.andrew-robinson">Tony Morris vs. Andrew Robinson</h5>
 <iframe src="https://lichess.org/embed/cBSnKVOM?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+</iframe>
+<hr />
+<h5 id="martin-laizans-vs.chesley-cutler">Martin Laizans vs. Chesley Cutler</h5>
+<iframe src="https://lichess.org/LG7oQcUs?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
 </iframe>]]></description>
     <pubDate>Sat, 28 Jul 2018 00:00:00 UT</pubDate>
     <guid>https://thegapchessclub.org.au//posts/20180728_stuart-wilson-trophy_results/index.html</guid>
