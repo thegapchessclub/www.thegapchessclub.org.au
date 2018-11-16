@@ -7,8 +7,19 @@
         <description><![CDATA[]]></description>
         <atom:link href="https://thegapchessclub.org.au//rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Thu, 15 Nov 2018 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Nov 2018 00:00:00 UT</lastBuildDate>
         <item>
+    <title>Stuart Wilson Trophy, Play-off first place</title>
+    <link>https://thegapchessclub.org.au//posts/20181116_stuart-wilson-playoff/index.html</link>
+    <description><![CDATA[<h3 id="results">Results</h3>
+<h5 id="tony-howes-v-tony-morris">Tony Howes v Tony Morris</h5>
+<iframe src="https://lichess.org/embed/ROZU3Jhd?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+</iframe>]]></description>
+    <pubDate>Fri, 16 Nov 2018 00:00:00 UT</pubDate>
+    <guid>https://thegapchessclub.org.au//posts/20181116_stuart-wilson-playoff/index.html</guid>
+    <dc:creator>TGCC</dc:creator>
+</item>
+<item>
     <title>Marcus Porter Memorial 2018</title>
     <link>https://thegapchessclub.org.au//posts/20181115_marcus_porter_memorial/index.html</link>
     <description><![CDATA[<h3 id="about-the-marcus-porter-memorial">About the Marcus Porter Memorial</h3>
@@ -938,197 +949,6 @@
 <hr />]]></description>
     <pubDate>Fri, 20 Jul 2018 00:00:00 UT</pubDate>
     <guid>https://thegapchessclub.org.au//posts/20180720_stuart-wilson-trophy_results/index.html</guid>
-    <dc:creator>TGCC</dc:creator>
-</item>
-<item>
-    <title>Stuart Wilson Trophy, Results, Standings and Games</title>
-    <link>https://thegapchessclub.org.au//posts/20180713_stuart-wilson-trophy_results/index.html</link>
-    <description><![CDATA[<h3 id="results">Results</h3>
-<h6 id="section">20180713</h6>
-<table>
-<thead>
-<tr class="header">
-<th>WHITE</th>
-<th>BLACK</th>
-<th align="center">Result</th>
-<th align="center">Round</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Tony Morris</td>
-<td>Brian Willcock</td>
-<td align="center">1-0</td>
-<td align="center">3</td>
-</tr>
-<tr class="even">
-<td>Chesley Cutler</td>
-<td>Mark Pendrith</td>
-<td align="center">0-1</td>
-<td align="center">5</td>
-</tr>
-<tr class="odd">
-<td>Andrew Robinson</td>
-<td>Suvan Nag</td>
-<td align="center">1-0</td>
-<td align="center">5</td>
-</tr>
-<tr class="even">
-<td>Krishna Karthik</td>
-<td>Tony Howes</td>
-<td align="center">0-1</td>
-<td align="center">7</td>
-</tr>
-</tbody>
-</table>
-<h3 id="current-standings-as-at-13-july-2018">Current Standings as at 13 July 2018</h3>
-<table>
-<thead>
-<tr class="header">
-<th align="center">Rank</th>
-<th>Name</th>
-<th align="center">Points</th>
-<th align="center">Played</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="center">1</td>
-<td>Tony Howes</td>
-<td align="center">4½</td>
-<td align="center">5</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">2</td>
-<td>Andrew Robinson</td>
-<td align="center">3½</td>
-<td align="center">5</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">3</td>
-<td>Martin Laizans</td>
-<td align="center">3½</td>
-<td align="center">5</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">4</td>
-<td>Tony Morris</td>
-<td align="center">3</td>
-<td align="center">4</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">5</td>
-<td>Brian Willcock</td>
-<td align="center">3</td>
-<td align="center">6</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">6</td>
-<td>Mark Pendrith</td>
-<td align="center">2½</td>
-<td align="center">6</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">7</td>
-<td>Rex Scarf</td>
-<td align="center">2</td>
-<td align="center">4</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">8</td>
-<td>Suvan Nag</td>
-<td align="center">2</td>
-<td align="center">6</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">9</td>
-<td>Chesley Cutler</td>
-<td align="center">1</td>
-<td align="center">3</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">10</td>
-<td>Krishna Karthik</td>
-<td align="center">0</td>
-<td align="center">6</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-</tbody>
-</table>
-<hr />
-<h3 id="tonights-games">Tonight’s Games</h3>
-<h5 id="tony-morris-v-brian-willcock">Tony Morris v Brian Willcock</h5>
-<iframe src="https://lichess.org/embed/FLwpYlFT?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
-</iframe>
-<hr />
-<h5 id="andrew-robinson-v-suvan-nag">Andrew Robinson v Suvan Nag</h5>
-<iframe src="https://lichess.org/embed/6Yl0zLNP?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
-</iframe>
-<hr />
-<h5 id="karthik-krishna-v-tony-howes">Karthik Krishna v Tony Howes</h5>
-<iframe src="https://lichess.org/embed/dI3d3obf?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
-</iframe>]]></description>
-    <pubDate>Fri, 13 Jul 2018 00:00:00 UT</pubDate>
-    <guid>https://thegapchessclub.org.au//posts/20180713_stuart-wilson-trophy_results/index.html</guid>
     <dc:creator>TGCC</dc:creator>
 </item>
 
