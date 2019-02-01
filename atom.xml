@@ -8,8 +8,33 @@
         <name>TGCC</name>
         <email>contact@thegapchessclub.org.au</email>
     </author>
-    <updated>2018-11-30T00:00:00Z</updated>
+    <updated>2019-02-01T00:00:00Z</updated>
     <entry>
+    <title>DGT3000 Chess Clocks</title>
+    <link href="https://thegapchessclub.org.au//posts/20190201-dgt3000-clocks/index.html" />
+    <id>https://thegapchessclub.org.au//posts/20190201-dgt3000-clocks/index.html</id>
+    <published>2019-02-01T00:00:00Z</published>
+    <updated>2019-02-01T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<h3 id="applying-a-time-penalty-for-an-irregularity">Applying a time penalty for an irregularity</h3>
+<p>The <a href="https://www.fide.com/fide/handbook.html?id=208&amp;view=article">FIDE Laws of Chess</a> took effect from 01 January 2018.</p>
+<p>Article 7 defines Irregularities. Under 7.5.5, if an (irregular) action taken under Article 7.5.1, 7.5.2, 7.5.3 or 7.5.4 for the first completed illegal move by a player, the arbiter shall give two minutes extra time to the opponent. If the illegal move is the second completed illegal move by the same player the arbiter shall declare the game lost by this player.</p>
+<p>Under Appendix B, for Blitz play, the time penalty is <strong>one minute</strong> (not two). Blitz play is defined (B.1) as a game where all the moves must be completed in a fixed time of 10 minutes or less for each player; or the allotted time plus 60 times any increment is 10 minutes or less.</p>
+<p>To apply a time penalty on a DGT3000 chess clock:</p>
+<ol style="list-style-type: decimal">
+<li>Stop the clock by pressing the middle button ⏵⏸</li>
+<li>Hold down the middle button ⏵⏸ for 3 seconds</li>
+<li>Press the right-most ⏵ button to scroll to the minute field</li>
+<li>Press the plus ➕ button to add one minute, and again for two minutes</li>
+<li>Press the right-most ⏵ button to scroll through to the end of options</li>
+<li>Restart the clock by pressing the middle button ⏵⏸</li>
+</ol>
+<hr />
+<div class="figure">
+<img src="/images/dgt3000.jpg" alt="DGT3000" />
+<p class="caption">DGT3000</p>
+</div>]]></summary>
+</entry>
+<entry>
     <title>The Gap Chess Club 2018 AGM Minutes</title>
     <link href="https://thegapchessclub.org.au//posts/20181130_2018_agm/index.html" />
     <id>https://thegapchessclub.org.au//posts/20181130_2018_agm/index.html</id>
@@ -662,178 +687,6 @@
 <hr />
 <h5 id="suvan-nag-v-tony-howes">Suvan Nag v Tony Howes</h5>
 <iframe src="https://lichess.org/embed/eOTP24z8?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
-</iframe>]]></summary>
-</entry>
-<entry>
-    <title>Stuart Wilson Trophy, 28 July 2018</title>
-    <link href="https://thegapchessclub.org.au//posts/20180728_stuart-wilson-trophy_results/index.html" />
-    <id>https://thegapchessclub.org.au//posts/20180728_stuart-wilson-trophy_results/index.html</id>
-    <published>2018-07-28T00:00:00Z</published>
-    <updated>2018-07-28T00:00:00Z</updated>
-    <summary type="html"><![CDATA[<h3 id="results-27-july-2018">Results – 27 July 2018</h3>
-<table>
-<thead>
-<tr class="header">
-<th>WHITE</th>
-<th>BLACK</th>
-<th align="center">Result</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Tony Morris</td>
-<td>Andrew Robinson</td>
-<td align="center">½-½</td>
-</tr>
-<tr class="even">
-<td>Martin Laizans</td>
-<td>Chesley Cutler</td>
-<td align="center">1-0</td>
-</tr>
-</tbody>
-</table>
-<hr />
-<h3 id="current-standings-as-at-27-july-2018">Current Standings as at 27 July 2018</h3>
-<table>
-<thead>
-<tr class="header">
-<th align="center">Rank</th>
-<th>Name</th>
-<th align="center">Points</th>
-<th align="center">Played</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="center">1</td>
-<td>Martin Laizans</td>
-<td align="center">5.0</td>
-<td align="center">7</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">2</td>
-<td>Tony Howes</td>
-<td align="center">4.5</td>
-<td align="center">5</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">3</td>
-<td>Andrew Robinson</td>
-<td align="center">4.5</td>
-<td align="center">7</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">4</td>
-<td>Brian Willcock</td>
-<td align="center">4.0</td>
-<td align="center">7</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">5</td>
-<td>Tony Morris</td>
-<td align="center">3.5</td>
-<td align="center">5</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">6</td>
-<td>Mark Pendrith</td>
-<td align="center">3.0</td>
-<td align="center">7</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">7</td>
-<td>Rex Scarf</td>
-<td align="center">2.5</td>
-<td align="center">5</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">8</td>
-<td>Chesley Cutler</td>
-<td align="center">2.0</td>
-<td align="center">5</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">9</td>
-<td>Suvan Nag</td>
-<td align="center">2.0</td>
-<td align="center">7</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr class="odd">
-<td align="center">10</td>
-<td>Krishna Karthik</td>
-<td align="center">0.0</td>
-<td align="center">7</td>
-</tr>
-<tr class="even">
-<td align="center"></td>
-<td></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-</tbody>
-</table>
-<hr />
-<h3 id="games">Games</h3>
-<h5 id="tony-morris-vs.andrew-robinson">Tony Morris vs. Andrew Robinson</h5>
-<iframe src="https://lichess.org/embed/cBSnKVOM?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
-</iframe>
-<hr />
-<h5 id="martin-laizans-vs.chesley-cutler">Martin Laizans vs. Chesley Cutler</h5>
-<iframe src="https://lichess.org/embed/LG7oQcUs?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
 </iframe>]]></summary>
 </entry>
 
