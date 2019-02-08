@@ -7,8 +7,32 @@
         <description><![CDATA[]]></description>
         <atom:link href="https://thegapchessclub.org.au//rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Fri, 01 Feb 2019 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Feb 2019 00:00:00 UT</lastBuildDate>
         <item>
+    <title>Prize night</title>
+    <link>https://thegapchessclub.org.au//posts/20190208-prize-night/index.html</link>
+    <description><![CDATA[<h3 id="club-prize-night">Club Prize Night</h3>
+<p>On the evening of The Gap Chess Club Prize night, we will be presenting the winners of the club tournaments for 2018. Awards include some of the club’s chess clocks that are no loner used, but in full working condition. There will also be a trophy for a casual tournament held on the night.</p>
+<hr />
+<div class="figure">
+<img src="/images/bhb-chess-clock.jpg" alt="BHB Chess Clock" />
+<p class="caption">BHB Chess Clock</p>
+</div>
+<hr />
+<div class="figure">
+<img src="/images/jerger-chess-clock.jpg" alt="Jerger Chess Clock" />
+<p class="caption">Jerger Chess Clock</p>
+</div>
+<hr />
+<div class="figure">
+<img src="/images/gy2013-chess-clock.jpg" alt="GY2013 Chess Clock" />
+<p class="caption">GY2013 Chess Clock</p>
+</div>]]></description>
+    <pubDate>Fri, 08 Feb 2019 00:00:00 UT</pubDate>
+    <guid>https://thegapchessclub.org.au//posts/20190208-prize-night/index.html</guid>
+    <dc:creator>TGCC</dc:creator>
+</item>
+<item>
     <title>DGT3000 Chess Clocks</title>
     <link>https://thegapchessclub.org.au//posts/20190201-dgt3000-clocks/index.html</link>
     <description><![CDATA[<h3 id="applying-a-time-penalty-for-an-irregularity">Applying a time penalty for an irregularity</h3>
@@ -630,62 +654,6 @@
 </iframe>]]></description>
     <pubDate>Fri, 17 Aug 2018 00:00:00 UT</pubDate>
     <guid>https://thegapchessclub.org.au//posts/20180817_stuart-wilson-trophy_results/index.html</guid>
-    <dc:creator>TGCC</dc:creator>
-</item>
-<item>
-    <title>Stuart Wilson Trophy Results and Games</title>
-    <link>https://thegapchessclub.org.au//posts/20180810_stuart-wilson-trophy_results/index.html</link>
-    <description><![CDATA[<h3 id="results">Results</h3>
-<table>
-<thead>
-<tr class="header">
-<th>WHITE</th>
-<th>BLACK</th>
-<th align="center">Result</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Tony Morris</td>
-<td>Chesley Cutler</td>
-<td align="center">1-0</td>
-</tr>
-<tr class="even">
-<td>Andrew Robinson</td>
-<td>Rex Scarf</td>
-<td align="center">½-½</td>
-</tr>
-<tr class="odd">
-<td>Brian Willcock</td>
-<td>Martin Laizans</td>
-<td align="center">0-1</td>
-</tr>
-<tr class="even">
-<td>Suvan Nag</td>
-<td>Tony Howes</td>
-<td align="center">0-1</td>
-</tr>
-</tbody>
-</table>
-<hr />
-<h3 id="games">Games</h3>
-<h5 id="tony-morris-v-chesley-cutler">Tony Morris v Chesley Cutler</h5>
-<iframe src="https://lichess.org/embed/W5zACFQb?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
-</iframe>
-<hr />
-<h5 id="andrew-robinson-v-rex-scarf">Andrew Robinson v Rex Scarf</h5>
-<iframe src="https://lichess.org/embed/rPD11ifb?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
-</iframe>
-<hr />
-<h5 id="martin-laizans-v-brian-willcock">Martin Laizans v Brian Willcock</h5>
-<iframe src="https://lichess.org/embed/raX7f73A?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
-</iframe>
-<hr />
-<h5 id="suvan-nag-v-tony-howes">Suvan Nag v Tony Howes</h5>
-<iframe src="https://lichess.org/embed/eOTP24z8?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
-</iframe>]]></description>
-    <pubDate>Fri, 10 Aug 2018 00:00:00 UT</pubDate>
-    <guid>https://thegapchessclub.org.au//posts/20180810_stuart-wilson-trophy_results/index.html</guid>
     <dc:creator>TGCC</dc:creator>
 </item>
 
