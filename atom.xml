@@ -8,8 +8,52 @@
         <name>TGCC</name>
         <email>contact@thegapchessclub.org.au</email>
     </author>
-    <updated>2019-02-08T00:00:00Z</updated>
+    <updated>2019-03-08T00:00:00Z</updated>
     <entry>
+    <title>2019 Flood Cup, Round 1</title>
+    <link href="https://thegapchessclub.org.au//posts/20190308_flood-cup_round-1/index.html" />
+    <id>https://thegapchessclub.org.au//posts/20190308_flood-cup_round-1/index.html</id>
+    <published>2019-03-08T00:00:00Z</published>
+    <updated>2019-03-08T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<h3 id="draw">Draw</h3>
+<table>
+<thead>
+<tr class="header">
+<th>WHITE</th>
+<th>BLACK</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Mark Pendrith</td>
+<td>Andrew Robinson</td>
+</tr>
+<tr class="even">
+<td>Martin Laizans</td>
+<td>Tony Howes</td>
+</tr>
+<tr class="odd">
+<td>Tony Morris</td>
+<td>Rex Scarf</td>
+</tr>
+<tr class="even">
+<td>Cameron DeVere</td>
+<td>George Karassoulos</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="games">Games</h3>
+<h5 id="tony-morris-v-rex-scarf">Tony Morris v Rex Scarf</h5>
+<iframe src="https://lichess.org/embed/cH33M4h2?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+</iframe>
+<hr />
+<h5 id="martin-laizans-v-tony-howes">Martin Laizans v Tony Howes</h5>
+<iframe src="https://lichess.org/embed/X91wEU5N?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+</iframe>
+<hr />]]></summary>
+</entry>
+<entry>
     <title>Prize night</title>
     <link href="https://thegapchessclub.org.au//posts/20190208-prize-night/index.html" />
     <id>https://thegapchessclub.org.au//posts/20190208-prize-night/index.html</id>
@@ -613,49 +657,6 @@
 <h3 id="games">Games</h3>
 <h5 id="tony-morris-v-mark-pendrith">Tony Morris v Mark Pendrith</h5>
 <iframe src="https://lichess.org/embed/nHmCQRZN?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
-</iframe>]]></summary>
-</entry>
-<entry>
-    <title>Stuart Wilson Trophy Results and Games</title>
-    <link href="https://thegapchessclub.org.au//posts/20180817_stuart-wilson-trophy_results/index.html" />
-    <id>https://thegapchessclub.org.au//posts/20180817_stuart-wilson-trophy_results/index.html</id>
-    <published>2018-08-17T00:00:00Z</published>
-    <updated>2018-08-17T00:00:00Z</updated>
-    <summary type="html"><![CDATA[<h3 id="results">Results</h3>
-<table>
-<thead>
-<tr class="header">
-<th>WHITE</th>
-<th>BLACK</th>
-<th align="center">Result</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Rex Scarf</td>
-<td>Tony Morris</td>
-<td align="center">0-1</td>
-</tr>
-<tr class="even">
-<td>Chesley Cutler</td>
-<td>Andrew Robinson</td>
-<td align="center">0-1</td>
-</tr>
-<tr class="odd">
-<td>Mark Pendrith</td>
-<td>Suvan Nag</td>
-<td align="center">1-0</td>
-</tr>
-</tbody>
-</table>
-<hr />
-<h3 id="games">Games</h3>
-<h5 id="rex-scarf-v-tony-morris">Rex Scarf v Tony Morris</h5>
-<iframe src="https://lichess.org/embed/DYReFcVy?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
-</iframe>
-<hr />
-<h5 id="mark-pendrith-v-suvan-nag">Mark Pendrith v Suvan Nag</h5>
-<iframe src="https://lichess.org/embed/B9k149Fi?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
 </iframe>]]></summary>
 </entry>
 
