@@ -8,8 +8,59 @@
         <name>TGCC</name>
         <email>contact@thegapchessclub.org.au</email>
     </author>
-    <updated>2019-03-08T00:00:00Z</updated>
+    <updated>2019-03-15T00:00:00Z</updated>
     <entry>
+    <title>2019 Flood Cup, Round 2</title>
+    <link href="https://thegapchessclub.org.au//posts/20190315_flood-cup_round-2/index.html" />
+    <id>https://thegapchessclub.org.au//posts/20190315_flood-cup_round-2/index.html</id>
+    <published>2019-03-15T00:00:00Z</published>
+    <updated>2019-03-15T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<h3 id="draw">Draw</h3>
+<table>
+<thead>
+<tr class="header">
+<th>WHITE</th>
+<th>BLACK</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Mark Gentle</td>
+<td>Andrew Robinson</td>
+</tr>
+<tr class="even">
+<td>Rex Scarf</td>
+<td>Mark Pendrith</td>
+</tr>
+<tr class="odd">
+<td>George Flitcroft-Smith</td>
+<td>Tony Morris</td>
+</tr>
+<tr class="even">
+<td>Tony Howes</td>
+<td>Cameron De Vere</td>
+</tr>
+<tr class="odd">
+<td>Suvan Nag</td>
+<td>Martin Laizans</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h5 id="george-flitcroft-smith-v-tony-morris">George Flitcroft-Smith v Tony Morris</h5>
+<iframe src="https://lichess.org/embed/Tv1ie45I?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+</iframe>
+<hr />
+<h3 id="games">Games</h3>
+<h5 id="rex-scarf-v-mark-pendrith">Rex Scarf v Mark Pendrith</h5>
+<iframe src="https://lichess.org/embed/kN4jlD32?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+</iframe>
+<hr />
+<h5 id="tony-howes-v-cameron-de-vere">Tony Howes v Cameron De Vere</h5>
+<iframe src="https://lichess.org/embed/jSkSe9gD?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+</iframe>]]></summary>
+</entry>
+<entry>
     <title>2019 Flood Cup, Round 1</title>
     <link href="https://thegapchessclub.org.au//posts/20190308_flood-cup_round-1/index.html" />
     <id>https://thegapchessclub.org.au//posts/20190308_flood-cup_round-1/index.html</id>
@@ -38,7 +89,7 @@
 </tr>
 <tr class="even">
 <td>Cameron DeVere</td>
-<td>George Karassoulos</td>
+<td>George Flitcroft-Smith</td>
 </tr>
 </tbody>
 </table>
@@ -632,35 +683,6 @@
 </tr>
 </tbody>
 </table>]]></summary>
-</entry>
-<entry>
-    <title>Stuart Wilson Trophy Results and Games</title>
-    <link href="https://thegapchessclub.org.au//posts/20180824_stuart-wilson-trophy_results/index.html" />
-    <id>https://thegapchessclub.org.au//posts/20180824_stuart-wilson-trophy_results/index.html</id>
-    <published>2018-08-24T00:00:00Z</published>
-    <updated>2018-08-24T00:00:00Z</updated>
-    <summary type="html"><![CDATA[<h3 id="results">Results</h3>
-<table>
-<thead>
-<tr class="header">
-<th>WHITE</th>
-<th>BLACK</th>
-<th align="center">Result</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Tony Morris</td>
-<td>Mark Pendrith</td>
-<td align="center">1-0</td>
-</tr>
-</tbody>
-</table>
-<hr />
-<h3 id="games">Games</h3>
-<h5 id="tony-morris-v-mark-pendrith">Tony Morris v Mark Pendrith</h5>
-<iframe src="https://lichess.org/embed/nHmCQRZN?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
-</iframe>]]></summary>
 </entry>
 
 </feed>

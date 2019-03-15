@@ -7,8 +7,59 @@
         <description><![CDATA[]]></description>
         <atom:link href="https://thegapchessclub.org.au//rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Fri, 08 Mar 2019 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2019 00:00:00 UT</lastBuildDate>
         <item>
+    <title>2019 Flood Cup, Round 2</title>
+    <link>https://thegapchessclub.org.au//posts/20190315_flood-cup_round-2/index.html</link>
+    <description><![CDATA[<h3 id="draw">Draw</h3>
+<table>
+<thead>
+<tr class="header">
+<th>WHITE</th>
+<th>BLACK</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Mark Gentle</td>
+<td>Andrew Robinson</td>
+</tr>
+<tr class="even">
+<td>Rex Scarf</td>
+<td>Mark Pendrith</td>
+</tr>
+<tr class="odd">
+<td>George Flitcroft-Smith</td>
+<td>Tony Morris</td>
+</tr>
+<tr class="even">
+<td>Tony Howes</td>
+<td>Cameron De Vere</td>
+</tr>
+<tr class="odd">
+<td>Suvan Nag</td>
+<td>Martin Laizans</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h5 id="george-flitcroft-smith-v-tony-morris">George Flitcroft-Smith v Tony Morris</h5>
+<iframe src="https://lichess.org/embed/Tv1ie45I?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+</iframe>
+<hr />
+<h3 id="games">Games</h3>
+<h5 id="rex-scarf-v-mark-pendrith">Rex Scarf v Mark Pendrith</h5>
+<iframe src="https://lichess.org/embed/kN4jlD32?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+</iframe>
+<hr />
+<h5 id="tony-howes-v-cameron-de-vere">Tony Howes v Cameron De Vere</h5>
+<iframe src="https://lichess.org/embed/jSkSe9gD?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+</iframe>]]></description>
+    <pubDate>Fri, 15 Mar 2019 00:00:00 UT</pubDate>
+    <guid>https://thegapchessclub.org.au//posts/20190315_flood-cup_round-2/index.html</guid>
+    <dc:creator>TGCC</dc:creator>
+</item>
+<item>
     <title>2019 Flood Cup, Round 1</title>
     <link>https://thegapchessclub.org.au//posts/20190308_flood-cup_round-1/index.html</link>
     <description><![CDATA[<h3 id="draw">Draw</h3>
@@ -34,7 +85,7 @@
 </tr>
 <tr class="even">
 <td>Cameron DeVere</td>
-<td>George Karassoulos</td>
+<td>George Flitcroft-Smith</td>
 </tr>
 </tbody>
 </table>
@@ -630,35 +681,6 @@
 </table>]]></description>
     <pubDate>Wed, 19 Sep 2018 00:00:00 UT</pubDate>
     <guid>https://thegapchessclub.org.au//posts/20180919_allegro-trophy_results/index.html</guid>
-    <dc:creator>TGCC</dc:creator>
-</item>
-<item>
-    <title>Stuart Wilson Trophy Results and Games</title>
-    <link>https://thegapchessclub.org.au//posts/20180824_stuart-wilson-trophy_results/index.html</link>
-    <description><![CDATA[<h3 id="results">Results</h3>
-<table>
-<thead>
-<tr class="header">
-<th>WHITE</th>
-<th>BLACK</th>
-<th align="center">Result</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Tony Morris</td>
-<td>Mark Pendrith</td>
-<td align="center">1-0</td>
-</tr>
-</tbody>
-</table>
-<hr />
-<h3 id="games">Games</h3>
-<h5 id="tony-morris-v-mark-pendrith">Tony Morris v Mark Pendrith</h5>
-<iframe src="https://lichess.org/embed/nHmCQRZN?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
-</iframe>]]></description>
-    <pubDate>Fri, 24 Aug 2018 00:00:00 UT</pubDate>
-    <guid>https://thegapchessclub.org.au//posts/20180824_stuart-wilson-trophy_results/index.html</guid>
     <dc:creator>TGCC</dc:creator>
 </item>
 
