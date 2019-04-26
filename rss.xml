@@ -7,8 +7,90 @@
         <description><![CDATA[]]></description>
         <atom:link href="https://thegapchessclub.org.au//rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Fri, 05 Apr 2019 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2019 00:00:00 UT</lastBuildDate>
         <item>
+    <title>2019 Flood Cup (26 April)</title>
+    <link>https://thegapchessclub.org.au//posts/20190426_flood-cup/index.html</link>
+    <description><![CDATA[<h3 id="standings">Standings</h3>
+<table>
+<thead>
+<tr class="header">
+<th>Name</th>
+<th>Points</th>
+<th>Played</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Tony Morris</td>
+<td>5.0</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>George Flitcroft-Smith</td>
+<td>3.0</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>Andrew Robinson</td>
+<td>2.5</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>Cameron De Vere</td>
+<td>2.5</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>Tony Howes</td>
+<td>1.5</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>Martin Laizans</td>
+<td>1.0</td>
+<td>4</td>
+</tr>
+<tr class="odd">
+<td>Rex Scarf</td>
+<td>1.0</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>Mark Pendrith</td>
+<td>0.5</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+<h3 id="draw">Draw</h3>
+<table>
+<thead>
+<tr class="header">
+<th>WHITE</th>
+<th>BLACK</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Tony Morris</td>
+<td>Mark Pendrith</td>
+</tr>
+<tr class="even">
+<td>Martin Laizans</td>
+<td>Cameron De Vere</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h5 id="tony-morris-v-mark-pendrith">Tony Morris v Mark Pendrith</h5>
+<iframe src="https://lichess.org/embed/PylfiQSA?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+</iframe>]]></description>
+    <pubDate>Fri, 26 Apr 2019 00:00:00 UT</pubDate>
+    <guid>https://thegapchessclub.org.au//posts/20190426_flood-cup/index.html</guid>
+    <dc:creator>TGCC</dc:creator>
+</item>
+<item>
     <title>2019 Flood Cup (05 April)</title>
     <link>https://thegapchessclub.org.au//posts/20190405_flood-cup/index.html</link>
     <description><![CDATA[<h3 id="standings">Standings</h3>
@@ -412,77 +494,6 @@
 <p>These can be found on <a href="https://www.facebook.com/thegapchessclub/">the club’s Facebook page</a>.</p>]]></description>
     <pubDate>Thu, 15 Nov 2018 00:00:00 UT</pubDate>
     <guid>https://thegapchessclub.org.au//posts/20181115_marcus_porter_memorial/index.html</guid>
-    <dc:creator>TGCC</dc:creator>
-</item>
-<item>
-    <title>Interclub vs. Bullwinkle CC, 13 October 2018</title>
-    <link>https://thegapchessclub.org.au//posts/20181013_interclub_vs_bullwinkle-cc/index.html</link>
-    <description><![CDATA[<p>Bullwinkle Chess Club visited The Gap tonight for an interclub match. This continued the tradition of friendly games between the clubs dating back to 2006. As occurred the past two times, games were played over Quick time controls, this time 10 minutes plus 10 seconds. Play was delayed until the keys arrived to open up the club’s premises, this not occurring until 8:40pm. When all games were played, the result was Bullwinkle 12 The Gap 4. Bullwinkle won all of the first round except against Andrew Mather on Board One. Andrew, Tony and Joshua won their second games to give The Gap their four points. The Gap welcomed two new players, Cam and Harry MacDiarmid who put in creditable performances on their first night at the club. Our club thanks the members of Bullwinkle Chess Club for travelling on The Gap on a very wet night and for waiting around 40 minutes until our rooms were opened.</p>
-<hr />
-<h3 id="interclub-match---the-gap-vs.bullwinkle">Interclub Match - The Gap vs. Bullwinkle</h3>
-<table>
-<thead>
-<tr class="header">
-<th>Board</th>
-<th>The Gap</th>
-<th>Bullwinkle</th>
-<th>Result</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1</td>
-<td>Andrew Mather</td>
-<td>Nik Stawski</td>
-<td>2-0</td>
-</tr>
-<tr class="even">
-<td>2</td>
-<td>Joshua Morris</td>
-<td>Jacob Edwards</td>
-<td>1-1</td>
-</tr>
-<tr class="odd">
-<td>3</td>
-<td>Tony Morris</td>
-<td>Michael D’Arcy</td>
-<td>1-1</td>
-</tr>
-<tr class="even">
-<td>4</td>
-<td>George Flitcroft-Smith</td>
-<td>Jason Chan</td>
-<td>0-2</td>
-</tr>
-<tr class="odd">
-<td>5</td>
-<td>Martin Laizans</td>
-<td>Ben McPhee</td>
-<td>0-2</td>
-</tr>
-<tr class="even">
-<td>6</td>
-<td>Rex Scarf</td>
-<td>Craig Stewart</td>
-<td>0-2</td>
-</tr>
-<tr class="odd">
-<td>7</td>
-<td>Cam MacDiarmid</td>
-<td>Konrad Uebel</td>
-<td>0-2</td>
-</tr>
-<tr class="even">
-<td>8</td>
-<td>Harry MacDiarmid</td>
-<td>Aiden Brady</td>
-<td>0-2</td>
-</tr>
-</tbody>
-</table>
-<h5 id="result-bullwinkle-12-the-gap-4">Result: Bullwinkle 12 The Gap 4</h5>]]></description>
-    <pubDate>Sat, 13 Oct 2018 00:00:00 UT</pubDate>
-    <guid>https://thegapchessclub.org.au//posts/20181013_interclub_vs_bullwinkle-cc/index.html</guid>
     <dc:creator>TGCC</dc:creator>
 </item>
 
