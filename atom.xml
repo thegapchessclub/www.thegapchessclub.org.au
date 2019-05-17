@@ -8,8 +8,116 @@
         <name>TGCC</name>
         <email>contact@thegapchessclub.org.au</email>
     </author>
-    <updated>2019-05-10T00:00:00Z</updated>
+    <updated>2019-05-17T00:00:00Z</updated>
     <entry>
+    <title>2019 Flood Cup (17 May)</title>
+    <link href="https://thegapchessclub.org.au//posts/20190517_flood-cup/index.html" />
+    <id>https://thegapchessclub.org.au//posts/20190517_flood-cup/index.html</id>
+    <published>2019-05-17T00:00:00Z</published>
+    <updated>2019-05-17T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<h3 id="draw">Draw</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="center">WHITE</th>
+<th align="center">BLACK</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">Mark Pendrith</td>
+<td align="center">Cameron De Vere</td>
+</tr>
+<tr class="even">
+<td align="center">Andrew Robinson</td>
+<td align="center">Martin Laizans</td>
+</tr>
+<tr class="odd">
+<td align="center">George Flitcroft-Smith</td>
+<td align="center">Tony Howes</td>
+</tr>
+</tbody>
+</table>
+<h3 id="standings">Standings</h3>
+<table>
+<thead>
+<tr class="header">
+<th>Name</th>
+<th align="center">Points</th>
+<th align="center">Played</th>
+<th align="center">Handicap</th>
+<th align="center">Points+Handicap</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Tony Morris</td>
+<td align="center">5.5</td>
+<td align="center">6</td>
+<td align="center">0.11</td>
+<td align="center">5.61</td>
+</tr>
+<tr class="even">
+<td>Cameron De Vere</td>
+<td align="center">5.5</td>
+<td align="center">6</td>
+<td align="center">0.00</td>
+<td align="center">5.50</td>
+</tr>
+<tr class="odd">
+<td>George Flitcroft-Smith</td>
+<td align="center">3.0</td>
+<td align="center">6</td>
+<td align="center">2.04</td>
+<td align="center">5.04</td>
+</tr>
+<tr class="even">
+<td>Andrew Robinson</td>
+<td align="center">3.5</td>
+<td align="center">7</td>
+<td align="center">0.31</td>
+<td align="center">3.81</td>
+</tr>
+<tr class="odd">
+<td>Martin Laizans</td>
+<td align="center">3.5</td>
+<td align="center">6</td>
+<td align="center">2.19</td>
+<td align="center">5.69</td>
+</tr>
+<tr class="even">
+<td>Tony Howes</td>
+<td align="center">2.5</td>
+<td align="center">5</td>
+<td align="center">0.07</td>
+<td align="center">2.57</td>
+</tr>
+<tr class="odd">
+<td>Mark Pendrith</td>
+<td align="center">1.5</td>
+<td align="center">7</td>
+<td align="center">4.79</td>
+<td align="center">6.29</td>
+</tr>
+<tr class="even">
+<td>Rex Scarf</td>
+<td align="center">1.0</td>
+<td align="center">5</td>
+<td align="center">2.65</td>
+<td align="center">3.65</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h5 id="george-flitcroft-smith-v-tony-howes">George Flitcroft-Smith v Tony Howes</h5>
+<iframe src="https://lichess.org/embed/Q5l90v9g?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+</iframe>
+<hr />
+<h5 id="andrew-robinson-v-martin-laizans">Andrew Robinson v Martin Laizans</h5>
+<iframe src="https://lichess.org/embed/EYGFGsRi?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
+</iframe>]]></summary>
+</entry>
+<entry>
     <title>2019 Flood Cup (10 May)</title>
     <link href="https://thegapchessclub.org.au//posts/20190510_flood-cup/index.html" />
     <id>https://thegapchessclub.org.au//posts/20190510_flood-cup/index.html</id>
@@ -590,17 +698,6 @@
 </ul>
 <hr />
 <p>meeting closed 2119 UTC+10</p>]]></summary>
-</entry>
-<entry>
-    <title>Stuart Wilson Trophy, Play-off first place</title>
-    <link href="https://thegapchessclub.org.au//posts/20181116_stuart-wilson-playoff/index.html" />
-    <id>https://thegapchessclub.org.au//posts/20181116_stuart-wilson-playoff/index.html</id>
-    <published>2018-11-16T00:00:00Z</published>
-    <updated>2018-11-16T00:00:00Z</updated>
-    <summary type="html"><![CDATA[<h3 id="results">Results</h3>
-<h5 id="tony-howes-v-tony-morris">Tony Howes v Tony Morris</h5>
-<iframe src="https://lichess.org/embed/ROZU3Jhd?theme=auto&amp;bg=auto" width="600" height="397" frameborder="0">
-</iframe>]]></summary>
 </entry>
 
 </feed>
